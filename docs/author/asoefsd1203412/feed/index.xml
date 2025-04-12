@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>asoefsd1203412 | Site Plugin Template</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Neil&#039;s favorite backend setup for wordpress.</description>
+	<lastBuildDate>Thu, 03 Apr 2025 18:33:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>./../../../hello-world/index.html</link>
+					<comments>./../../../hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[asoefsd1203412]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 15:18:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+
+
+<div
+				id="hustle-embedded-id-3"
+				class="hustle-ui hustle-inline hustle-palette--gray_slate hustle_module_id_3 module_id_3   hustle-size--custom"
+				
+			data-id="3"
+			data-render-id="0"
+			data-tracking="enabled"
+			
+				data-intro="no_animation"
+				data-sub-type="shortcode"
+				
+				style="opacity: 0;"
+			><div class="hustle-inline-content"><div class="hustle-optin hustle-optin--default"><div class="hustle-success" data-close-delay="false" style="display: none;"><span class="hustle-icon-check" aria-hidden="true"></span><div class="hustle-success-content"></div></div><div class="hustle-layout"><div class="hustle-main-wrapper"><div class="hustle-layout-body"><div class="hustle-layout-content hustle-layout-position--above"><div class="hustle-image hustle-image-fit--contain" aria-hidden="true"><img decoding="async" src="./../../../wp-content/plugins/wordpress-popup/assets/images/templates-images/newsletter-image.png" alt="" class="hustle-image-position--centercenter" /></div><div class="hustle-content"><div class="hustle-content-wrap"><div class="hustle-group-title"><span class="hustle-title">Newsletter Signup</span></div><div class="hustle-group-content"><p style="text-align: center">Subscribe to our weekly newsletter below and never miss the latest product or an exclusive offer.</p>
+</div></div></div></div><form class="hustle-layout-form" novalidate="novalidate"><div class="hustle-form hustle-form-inline"><div class="hustle-form-fields hustle-proximity-separated"><div class="hustle-field hustle-field-required "><label for="hustle-field-email-module-3" id="hustle-field-email-module-3-label" class="hustle-screen-reader">Email</label><input id="hustle-field-email-module-3" type="email" class="hustle-input " name="email" value="" aria-labelledby="hustle-field-email-module-3-label" data-validate="1" data-required-error="Email field is required." data-validation-error="Please enter a valid email." /><span class="hustle-input-label" aria-hidden="true" style="flex-flow: row nowrap;"><span>Enter your email address</span></span></div><button class="hustle-button hustle-button-submit " aria-live="polite" data-loading-text="Form is being submitted, please wait a bit."><span class="hustle-button-text">Subscribe</span><span class="hustle-icon-loader hustle-loading-icon" aria-hidden="true"></span></button></div></div><input type="hidden" name="hustle_module_id" value="3"><input type="hidden" name="post_id" value="1"><input type="hidden" name="hustle_sub_type" value="shortcode"><div class="hustle-error-message" style="display: none;" data-default-error="Something went wrong, please try again."></div></form></div></div></div></div></div></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
